@@ -1,0 +1,16 @@
+body{
+  font-family:montserrat;
+  text-decoration:none;
+  color:black;
+  white-space:nowrap;
+  min-width: 900px;
+}
+
+p{
+  margin:0;
+  text-decoration:none;
+}
+
+a{
+  text-decoration:none;
+}
